@@ -1,20 +1,20 @@
-# YourPageTitle
+# Powered by the Apocalypse
 
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+[Introduzione](index.md)
+[Horror](horror.md)
 
-[SubMenuName]()
+[Regolamenti esistenti]()
 
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+  * [Il Mondo dell'Apocalisse](sistemi/il-mondo-dell-apocalisse.md)
+  * [Dungeon World](sistemi/dungeon-world.md)
+  * [Cuori di Mostro](sistemi/cuori-di-mostro.md)
+  * [Il Mostro della Settimana](sistemi/il-mostro-della-settimana.md)
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: true)](readable)
 
 <!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
+<!-- [gimmick:ThemeChooser](Change theme) -->
 
 <!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
+<!-- [gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/) -->
